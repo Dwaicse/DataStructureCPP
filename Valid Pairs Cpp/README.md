@@ -5,6 +5,7 @@ Given an array of integers and numbers k and m, write a function that returns tr
 --------------------------------------------------------------
 
 Input format :
+
 Line 1 : Integer N
 
 Line 2 : N integers separated be a single space
